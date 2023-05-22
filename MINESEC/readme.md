@@ -2,6 +2,8 @@
 
 /* Contributuers du projet MINESEC: CodeurZEBS, */
 
+## [minesec-distancelearning.cm](https://minesec-distancelearning.cm/)
+
 MINESEC_APP - JAVA EE L’objectif de ce Repos NGcodeX est la spécification de manière claire et concise de l’application. On va de ce fait procéder
 à la définition des utilisateurs, ainsi que leurs besoins respectifs auxquels l’application est tenue d’apporter des réponses.
 
