@@ -1,11 +1,11 @@
-# Site Aeroclub pour passionner d aviation
+# Aeroclub website for aviation enthusiasts
 
-## Etat: enligne
+## Status: online
 
 ## [pilotezebs.com](https://pilotezebs.com)
 
-## Heberger par: NGcodeX-server
+## Host by: NGcodeX-server
 
-Developpeur: CodeurZEBS, 
+Developer: ZEBS Coder,
 
-groupe Facebook: [AeroclubCMR](https://www.facebook.com/groups/aeroclubcmr)
+Facebook group: [AeroclubCMR](https://www.facebook.com/groups/aeroclubcmr)
